@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1357145454 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/Tutorial2/main.cpp
+	<iostream>
+	"Car.h"
+
+1357141153 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/Tutorial2/src/Vehicle.cpp
+	"Vehicle.h"
+	<iostream>
+
+1357141786 /home/ross/Desktop/MTCC_Work/C++/Tut2/Tutorial2/include/Vehicle.h
+	<string>
+
+1357145274 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/Tutorial2/src/Car.cpp
+	"Car.h"
+	<iostream>
+
+1357145415 /home/ross/Desktop/MTCC_Work/C++/Tut2/Tutorial2/include/Car.h
+	<Vehicle.h>
+

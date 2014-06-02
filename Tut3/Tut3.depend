@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1358178068 source:/home/ross/Desktop/MTCC_Work/C++/Tut3/main.cpp
+	<iostream>
+
+1357316980 source:/home/ross/Desktop/MTCC_Work/C++/Tut3/src/Statistics.cpp
+	"Statistics.h"
+	<iostream>
+	<algorithm>
+
+1357316648 /home/ross/Desktop/MTCC_Work/C++/Tut3/include/Statistics.h
+	<iostream>
+	<vector>
+
+1358014290 source:/home/ross/Desktop/MTCC_Work/C++/Tut3/src/Person.cpp
+	"Person.h"
+	<iostream>
+	<string>
+
+1358015182 /home/ross/Desktop/MTCC_Work/C++/Tut3/include/Person.h
+	<iostream>
+	<string>
+
+1358014897 source:/home/ross/Desktop/MTCC_Work/C++/Tut3/src/Student.cpp
+	"Student.h"
+
+1358014857 /home/ross/Desktop/MTCC_Work/C++/Tut3/include/Student.h
+	"Person.h"
+
+1358017968 source:/home/ross/Desktop/MTCC_Work/C++/Tut3/src/Collection.cpp
+	"Collection.h"
+
+1358017968 /home/ross/Desktop/MTCC_Work/C++/Tut3/include/Collection.h
+

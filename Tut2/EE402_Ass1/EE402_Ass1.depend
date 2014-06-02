@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1352046671 source:/home/ross/Desktop/C++/Tut2/EE402_Ass1/main.cpp
+	"Pawn.h"
+	"Queen.h"
+	"Rook.h"
+	"Board.h"
+	"Bishop.h"
+	"PieceSet.h"
+
+1351973553 source:/home/ross/Desktop/C++/Tut2/EE402_Ass1/src/Piece.cpp
+	"Piece.h"
+
+1351973547 /home/ross/Desktop/C++/Tut2/EE402_Ass1/include/Piece.h
+	<iostream>
+	<string>
+
+1352041800 /home/ross/Desktop/C++/Tut2/EE402_Ass1/include/Pawn.h
+	<iostream>
+	<string>
+	"Piece.h"
+
+1351007244 source:/home/ross/Desktop/C++/Tut2/EE402_Ass1/src/Bishop.cpp
+	"Bishop.h"
+
+1351007298 /home/ross/Desktop/C++/Tut2/EE402_Ass1/include/Bishop.h
+	<iostream>
+	<string>
+	"Piece.h"
+
+1352041896 source:/home/ross/Desktop/C++/Tut2/EE402_Ass1/src/Pawn.cpp
+	"Pawn.h"
+
+1352046176 source:/home/ross/Desktop/C++/Tut2/EE402_Ass1/src/Rook.cpp
+	"Rook.h"
+
+1352046046 /home/ross/Desktop/C++/Tut2/EE402_Ass1/include/Rook.h
+	<iostream>
+	<string>
+	"Piece.h"
+
+1352046160 source:/home/ross/Desktop/C++/Tut2/EE402_Ass1/src/Queen.cpp
+	"Queen.h"
+
+1352046133 /home/ross/Desktop/C++/Tut2/EE402_Ass1/include/Queen.h
+	<iostream>
+	<string>
+	"Bishop.h"
+	"Rook.h"
+
+1352041243 /home/ross/Desktop/C++/Tut2/EE402_Ass1/include/Board.h
+	<iostream>
+	<string>
+
+1352036941 source:/home/ross/Desktop/C++/Tut2/EE402_Ass1/src/Board.cpp
+	"Board.h"
+
+1352044451 source:/home/ross/Desktop/C++/Tut2/EE402_Ass1/src/PieceSet.cpp
+	"PieceSet.h"
+
+1352044906 /home/ross/Desktop/C++/Tut2/EE402_Ass1/include/PieceSet.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1351007244 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/src/Bishop.cpp
+	"Bishop.h"
+
+1352051948 /home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/include/Bishop.h
+	<iostream>
+	<string>
+	"Piece.h"
+
+1351973547 /home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/include/Piece.h
+	<iostream>
+	<string>
+
+1351973553 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/src/Piece.cpp
+	"Piece.h"
+
+1352046160 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/src/Queen.cpp
+	"Queen.h"
+
+1352052015 /home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/include/Queen.h
+	<iostream>
+	<string>
+	"Bishop.h"
+	"Rook.h"
+
+1352051826 /home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/include/Rook.h
+	<iostream>
+	<string>
+	"Piece.h"
+
+1352049899 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/main.cpp
+	"Pawn.h"
+	"Queen.h"
+	"Rook.h"
+	"Board.h"
+	"Bishop.h"
+	"PieceSet.h"
+
+1352051526 /home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/include/Pawn.h
+	<iostream>
+	<string>
+	"Piece.h"
+
+1352052138 /home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/include/Board.h
+	<iostream>
+	<string>
+
+1352044906 /home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/include/PieceSet.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1352051771 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/src/Pawn.cpp
+	"Pawn.h"
+
+1352051872 source:/home/ross/Desktop/MTCC_Work/C++/Tut2/EE402_Ass1/src/Rook.cpp
+	"Rook.h"
+
